@@ -1,4 +1,4 @@
-# Hi, I'm Aries 👋
+# Hi, I'm Aries
 
 I'm a Computer Science student exploring how AI agents can become more capable, reliable, and useful.
 
